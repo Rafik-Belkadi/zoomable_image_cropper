@@ -1,7 +1,9 @@
 name: zoomable_image_cropper
-description: A new Flutter package project.
-version: 0.0.1
-homepage: something
+description: Zoomable Image Cropper is a Flutter package that allows you to easily crop and zoom images with a user-friendly interface. It's perfect for use cases where you need to let users select and crop specific regions of an image.
+version: 0.1.0
+homepage: https://github.com/Rafik-Belkadi/zoomable_image_cropper
+repository: https://github.com/Rafik-Belkadi/zoomable_image_cropper
+topics: [cropper, image, zoom, crop, flutter, dart, image-cropper, image-crop, image-zoom, image-zoomer, image-zooming, image-zoomable, image-zoomable-cropper, image-zoomable-crop, image-zoomable-zoom, image-zoomable-zoomer, image-zoomable-zooming, image-zoomable-zoomable, image-zoomable-zoomable-cropper, image-zoomable-zoomable-crop, image-zoomable-zoomable-zoom, image-zoomable-zoomable-zoomer, image-zoomable-zoomable-zooming, image-zoomable-zoomable-zoomable, image-zoomable-zoomable-zoomable-cropper, image-zoomable-zoomable-zoomable-crop, image-zoomable-zoomable-zoomable-zoom, image-zoomable-zoomable-zoomable-zoomer, image-zoomable-zoomable-zoomable-zooming, image-zoomable-zoomable-zoomable-zoomable, image-zoomable-zoomable-zoomable-zoomable-cropper, image-zoomable-zoomable-zoomable-zoomable-crop, image-zoomable-zoomable-zoomable-zoomable-zoom, image-zoomable-zoomable-zoomable-zoomable-zoomer, image-zoomable-zoomable-zoomable-zoomable-zooming, image-zoomable-zoomable-zoomable-zoomable-zoomable, image-zoomable-zoomable-zoomable-zoomable-zoomable-cropper, image-zoomable-zoomable-zoomable-zoomable-zoomable-crop, image-zoomable-zoomable-zoomable-zoomable-zoomable-zoom, image-zoomable-zoomable-zoomable-zoomable-zoomable-zoomer, image-zoomable-zoomable-zoomable-zoomable-zoomable-zooming, image-zoomable-zoomable-zoomable-zoomable-zoomable-zoomable, image-zoomable-zoomable-zoomable-zoomable-zoomable-zoomable-cropper, image-zoomable-zoomable-zoomable-zoomable-zoomable-zoomable-crop, image-zoom]
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
