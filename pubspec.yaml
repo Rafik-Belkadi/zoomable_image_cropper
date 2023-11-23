@@ -1,6 +1,6 @@
 name: zoomable_image_cropper
 description: Zoomable Image Cropper allows you to easily crop and zoom images with a user-friendly interface.
-version: 0.1.0
+version: 0.1.0+1
 homepage: https://github.com/Rafik-Belkadi/zoomable_image_cropper
 repository: https://github.com/Rafik-Belkadi/zoomable_image_cropper
 topics: [cropper, image, zoom, crop]
