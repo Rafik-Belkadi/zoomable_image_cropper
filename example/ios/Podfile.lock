@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - native_image_cropper_ios (0.1.0):
+    - Flutter
+  - photo_manager (2.0.0):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - native_image_cropper_ios (from `.symlinks/plugins/native_image_cropper_ios/ios`)
+  - photo_manager (from `.symlinks/plugins/photo_manager/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  native_image_cropper_ios:
+    :path: ".symlinks/plugins/native_image_cropper_ios/ios"
+  photo_manager:
+    :path: ".symlinks/plugins/photo_manager/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  native_image_cropper_ios: 63e0da0508f819ddf391a70e33c11f43d60e8182
+  photo_manager: 4f6810b7dfc4feb03b461ac1a70dacf91fba7604
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.13.0
