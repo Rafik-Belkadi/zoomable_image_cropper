@@ -1,8 +1,3 @@
----
-runme:
-  id: 01HFYCWDYKMDB9PTM57FTWP6Y2
-  version: v2.0
----
 
 # Zoomable Image Cropper for Flutter
 
@@ -12,7 +7,7 @@ runme:
 
 Zoomable Image Cropper is a Flutter package that allows you to easily crop and zoom images with a user-friendly interface. It's perfect for use cases where you need to let users select and crop specific regions of an image.
 
-![Demo](https://github.com/your_username/zoomable_image_cropper/raw/main/demo.gif)
+![Demo](https://github.com/Rafik-Belkadi/zoomable_image_cropper/raw/main/demo.gif)
 
 ## Features
 
